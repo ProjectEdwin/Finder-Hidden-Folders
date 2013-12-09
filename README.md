@@ -1,8 +1,11 @@
 Script Name:	Finder Hidden Folder
 ==============
 Language:	AppleScript
+
 Author:		Edwin Soto
+
 Version:	1.0.1
+
 Description:	This script toggles the ability to see hidden folders in Finder. 
 		(e.g. ~/Library)
 
